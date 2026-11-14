@@ -140,3 +140,4 @@ See `docs/DEPLOYMENT.md`.
   name and keep it small (under 2 MB).
 - **Social links:** edit the `socials` list in `lib/contact.ts`. Ready-to-use example
   lines for Instagram, Discord, YouTube, Facebook and GitHub are in that file.
+# n3xt-website
