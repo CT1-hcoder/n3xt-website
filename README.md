@@ -141,3 +141,4 @@ See `docs/DEPLOYMENT.md`.
 - **Social links:** edit the `socials` list in `lib/contact.ts`. Ready-to-use example
   lines for Instagram, Discord, YouTube, Facebook and GitHub are in that file.
 # n3xt-website
+# n3xt-website
